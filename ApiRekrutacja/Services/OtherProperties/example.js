@@ -1,0 +1,1 @@
+﻿//Można wykorzystać podobny wzór na tworzenie pozostałych właściwości API jak w przypadku Users lub Addresses
