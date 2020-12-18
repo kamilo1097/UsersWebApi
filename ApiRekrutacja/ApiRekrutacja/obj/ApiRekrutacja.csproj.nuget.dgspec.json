@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\ApiRekrutacja\\ApiRekrutacja.csproj": {}
+    "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\ApiRekrutacja\\ApiRekrutacja.csproj": {}
   },
   "projects": {
-    "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\ApiRekrutacja\\ApiRekrutacja.csproj": {
+    "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\ApiRekrutacja\\ApiRekrutacja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\ApiRekrutacja\\ApiRekrutacja.csproj",
+        "projectUniqueName": "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\ApiRekrutacja\\ApiRekrutacja.csproj",
         "projectName": "ApiRekrutacja",
-        "projectPath": "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\ApiRekrutacja\\ApiRekrutacja.csproj",
+        "projectPath": "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\ApiRekrutacja\\ApiRekrutacja.csproj",
         "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-        "outputPath": "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\ApiRekrutacja\\obj\\",
+        "outputPath": "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\ApiRekrutacja\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\Services\\Services.csproj": {
-                "projectPath": "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\Services\\Services.csproj"
+              "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\Services\\Services.csproj": {
+                "projectPath": "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\Services\\Services.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\Services\\Services.csproj": {
+    "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\Services\\Services.csproj",
+        "projectUniqueName": "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\Services\\Services.csproj",
+        "projectPath": "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-        "outputPath": "K:\\Projekty\\webs\\ZadanieRekrutacyjne1211\\ApiRekrutacja\\Services\\obj\\",
+        "outputPath": "K:\\Projects\\GitProjects\\UsersWebApi\\ApiRekrutacja\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
